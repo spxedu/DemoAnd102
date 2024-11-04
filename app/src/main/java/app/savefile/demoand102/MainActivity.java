@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
         });
         //2.
         catDAO = new CatDAO(this);
-
+//hghghgh
         CatDTO objCat = new CatDTO();
         objCat.setName("Dien thoai");
         // ghi vao CSDL
